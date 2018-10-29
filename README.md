@@ -2,7 +2,6 @@
 test
 this if from kaili
 
-<<<<<<< HEAD
 2019.10.01<br>
 this is from xiaoxin
 =======
