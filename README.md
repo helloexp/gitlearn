@@ -7,5 +7,5 @@ this if from kaili
 this is from xiaoxin
 =======
 2019.10.01
-need not to type crendital
->>>>>>> 9b15359799d11ffeaa94e269fd786cc2b6fc4115
+need not to type crendital<br>
+修改readme，重新创建一个分支
