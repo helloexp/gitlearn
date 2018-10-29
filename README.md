@@ -17,9 +17,12 @@ need not to type crendital<br>
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 创建bug修复分支<br>
 模拟bug已修复
 
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
