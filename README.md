@@ -6,7 +6,7 @@ this if from kaili
 this is from xiaoxin
 =======
 2019.10.01
-<<<<<<< HEAD
+
 need not to type crendital
 
 <br>
@@ -15,6 +15,10 @@ need not to type crendital
 need not to type crendital<br>
 修改readme，重新创建一个分支<br>
 
+<<<<<<< Updated upstream
 创建bug修复分支<br>
 模拟bug已修复
 
+=======
+测试git stash<br>
+>>>>>>> Stashed changes
